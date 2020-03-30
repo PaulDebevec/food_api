@@ -16,6 +16,7 @@ gem 'faraday'
 group :development, :test do
   gem 'pry'
   gem 'awesome_print'
+  gem 'factory_bot_rails'
 end
 
 group :test do
